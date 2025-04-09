@@ -1,4 +1,4 @@
-# Что это?
+# 1Что это?
 
 Это адаптер для запуска популярных конфигураций обхода замедления YouTube  
 на базе [Zapret Discord Youtube Flowseal](https://github.com/animesao/animesao-zapret-discord-youtube-linux).  
