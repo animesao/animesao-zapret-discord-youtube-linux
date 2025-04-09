@@ -15,7 +15,7 @@
 1. **Клонирование репозитория и запуск основного скрипта:**
 
    ```bash
-   git clone https://github.com/animesao/animesao-zapret-discord-youtube-linux.git
+   git clone https://github.com/animesao/zapret-discord-youtube-linux.git
    cd zapret-discord-youtube-linux
    sudo bash main_script.sh
    ```
