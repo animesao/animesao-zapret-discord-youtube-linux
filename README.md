@@ -1,7 +1,7 @@
 # Что это?
 
 Это адаптер для запуска популярных конфигураций обхода замедления YouTube  
-на базе [Zapret Discord Youtube Flowseal](https://github.com/Flowseal/zapret-discord-youtube).  
+на базе [Zapret Discord Youtube Flowseal](https://github.com/animesao/animesao-zapret-discord-youtube-linux).  
 Скрипт создан за пару вечеров с целью сделать его Plug-And-Play.
 
 **Проверено на:**  
